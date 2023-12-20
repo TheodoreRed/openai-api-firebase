@@ -1,4 +1,3 @@
-Your documentation on setting up the OpenAI API with Firebase is a great start. To enhance it, consider adding more detailed steps, explanations, and best practices for security and maintenance. Here's an improved version:
 
 ---
 
